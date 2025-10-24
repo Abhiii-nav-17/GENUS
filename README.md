@@ -106,13 +106,20 @@ This project is built with:
 Follow these steps to run the project locally:
 
 ### Step 1: Clone the Repository
-git clone https://github.com/yourusername/GENUS.git
+
+git clone https://github.com/Abhiii-nav-17/GENUS.git
 cd GENUS
 
 ### Step 2: Install Dependencies
+
 npm i
 
 ### Step 3: Start the Development Server
+
+npm i
+
+### Step 3: Start the Development Server
+
 npm run dev
 
 ### Once the server starts, open the local preview:
