@@ -31,6 +31,11 @@ The platform connects educational curiosity with scientific credibility — a pe
 
 ---
 
+## 🚀 Live App  
+Click here to explore GENUS 👉 https://projectgenus.netlify.app
+
+---
+
 ## 🧠 Project Architecture
 
 **GENUS-MAIN**
